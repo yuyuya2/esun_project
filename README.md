@@ -12,6 +12,7 @@ backend/backend/src/main/resources/application.properties
 spring.datasource.password=自己的MySQL密碼
 
 ## 後端打開
+執行環境需求：JDK 17 以上
 進入後端：cd backend/backend
 啟動Spring Boot：mvnw.cmd spring-boot:run
 後端預設使用：http://localhost:8080
